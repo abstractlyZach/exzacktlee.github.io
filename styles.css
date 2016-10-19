@@ -1,0 +1,25 @@
+h1 {
+	color: red;
+	text-align: center;
+	font-family: "Comic Sans MS";
+}
+
+h2 {
+	color: purple;
+	text-align: right;
+}
+
+#anotherh1 {
+	color: green;
+	font-family: "Times";
+}
+
+#anotherh1:hover {
+	font-family: "Comic Sans MS";
+	color: pink;
+	opacity: 50;
+}
+
+#thisisadiv {
+	background-color: red;
+}
